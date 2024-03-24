@@ -1,5 +1,5 @@
 # MNISTV1
-MNISTV2 is the first convolutional neural network I created to represent the TinyVGG model of https://poloclub.github.io/cnn-explainer/
+MNISTV1 is the first multi-classification model I created,which effectively separates data into suitable categories with non-linearity with the help of the softmax activation function.
 
 ## Note:
 + This code was originally written on .ipynb
